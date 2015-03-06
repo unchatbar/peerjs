@@ -5,7 +5,7 @@
   "main": "./lib/peer.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/peers/peerjs.git"
+    "url": "git://github.com/unchatbar/peerjs"
   },
   "author": "Michelle Bu, Eric Zhang",
   "license": "MIT",
